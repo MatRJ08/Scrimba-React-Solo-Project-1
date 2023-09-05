@@ -1,8 +1,7 @@
-# React + Vite
+# Scrimba React Solo Project 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was project was built using Vite
 
-Currently, two official plugins are available:
+This corresponds to the Solo Project - Digital Business Card from the Scrimba's "Learn react" course
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run with $ npm run dev

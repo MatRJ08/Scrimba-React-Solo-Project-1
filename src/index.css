@@ -69,7 +69,6 @@
     font-family: Inter;
     font-weight: 500;
     font-size: 14px;
-
   }
 
   .info-LinkButton{
@@ -98,30 +97,34 @@
     font-size: 14px;
   }
 
-  .about{
+  .about{    
+    font-family: Inter;
     background-color: #1A1B21;
     margin-left: auto;
     margin-right: auto;
     width: 317px; 
     display: flex;
     flex-flow: 	column;
-}
-.about > h1{
+  }
+  .about > h1{
     color: white;
     text-align: left;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 1%;
-}
-.about > p{
+    font-size: 22px;
+  }
+  .about > p{
     text-align: left;
     margin-left: 10%;
     margin-top: 1%;
     margin-bottom: 1%;
     color: white;
+    font-size: 12px;
   }
-
+  
   .interest{
+    font-family: Inter;
     background-color: #1A1B21;
     margin-left: auto;
     margin-right: auto;
@@ -129,21 +132,29 @@
     display: flex;
     flex-flow: 	column;
     padding-bottom: 5%;
-}
-.interest > h1{
+  }
+  .interest > h1{
     color: white;
     text-align: left;
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
     margin-bottom: 1%;
-}
-.interest > p{
+    font-size: 22px;
+  }
+  .interest > p{
     text-align: left;
-    margin-left: 10%;
+    margin-left: 3%;
     margin-top: 1%;
     margin-bottom: 1%;
     color: white;
+    font-size: 12px;
   }
+
+  .interest > p > ul{
+    margin: 0px;
+
+  }
+
 
   .footer{
     background-color: #161619;
