@@ -7,7 +7,7 @@ import LinkPic from "./assets/linkedin.png"
 export default function Info(){
     return (<div className="info">
                 <img src={ProfilePic} className="info-profilePic"/>
-                <h1 className="info-name">Mathiw Rojas</h1>
+                <h1 className="info-name">NotMat</h1>
                 <h1 className="info-position">Frontend Developer</h1>
                 <div className="info-Buttons">
                     <a href="mailto:matrj09@gmail.com"  className="info-emailButton">
